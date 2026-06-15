@@ -1,7 +1,7 @@
 ## Oi eu sou o Nicolas Alexandre!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikao19&show_icons=true&theme=dracula&border_radius=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao19&layout=compact&theme=dracula&border_radius=15&card_width=467)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao19&layout=compact&theme=dracula&border_radius=15&card_width=200)
 <div style="display: inline_block">
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
