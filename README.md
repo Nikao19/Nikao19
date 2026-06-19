@@ -16,9 +16,7 @@
 
 ##
 
-<p align="center">
-  <img src="./assets/hacker.gif" width="350">
-</p>
+![Hacker GIF](https://raw.githubusercontent.com/Nikao19/Nikao19/main/hacker.gif)
 
 <div> 
   <a href="https://www.instagram.com/nicolasale_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
