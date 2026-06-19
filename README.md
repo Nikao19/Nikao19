@@ -17,7 +17,7 @@
 ##
 
 <p align="center">
-  <img src="assets/hacker.gif" width="400">
+  <img src="./assets/hacker.gif" width="350">
 </p>
 
 <div> 
