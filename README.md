@@ -16,7 +16,9 @@
 
 ##
 
-https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM
+<p align="center">
+  <img src="assets/hacker.gif" width="400">
+</p>
 
 <div> 
   <a href="https://www.instagram.com/nicolasale_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
