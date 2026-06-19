@@ -16,7 +16,9 @@
 
 ##
 
-![Hacker GIF](https://raw.githubusercontent.com/Nikao19/Nikao19/main/hacker.gif)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyd24yMWsxcDZ1eDhkcHZ0Y2Myb2NjZmd4bHdjYjJhd2xwbHM5ZzRzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="700">
+</p>
 
 <div> 
   <a href="https://www.instagram.com/nicolasale_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
