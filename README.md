@@ -1,7 +1,32 @@
 ## Oi eu sou o Nicolas Alexandre!
 
+Estudante de Engenharia de Software e desenvolvedor em formação.
+
+Atualmente, estou focado em desenvolvimento web, aprimorando minhas habilidades por meio de projetos práticos e estudos contínuos.
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Atualmente estudando
+
+- JavaScript
+- Desenvolvimento Web
+- Git e GitHub
+- Lógica de programação
+- Desenvolvimento de software
+- Linguagem C
+
+## Contato
+
 <div> 
   <a href="https://www.instagram.com/nicolasale_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicolasalesilva1911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolasalexandresilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
