@@ -14,10 +14,7 @@ Atualmente, estou focado em desenvolvimento web, aprimorando minhas habilidades 
 
 ## Atualmente estudando
 
-- JavaScript
 - Desenvolvimento Web
-- Git e GitHub
-- Lógica de programação
 - Desenvolvimento de software
 - Linguagem C
 
