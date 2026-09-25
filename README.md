@@ -4,6 +4,8 @@ Estudante de Engenharia de Software e desenvolvedor em formação.
 
 Atualmente, estou focado em desenvolvimento web, aprimorando minhas habilidades por meio de projetos práticos e estudos contínuos.
 
+Meu portfólio: https://nikao19.github.io/n-portfolio/
+
 ## Tecnologias
 
 - HTML
@@ -19,8 +21,6 @@ Atualmente, estou focado em desenvolvimento web, aprimorando minhas habilidades 
 - Linguagem C
 
 ## Contato
-
-https://nikao19.github.io/n-portfolio/
 
 <div> 
   <a href="https://www.instagram.com/nicolasale_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
