@@ -4,7 +4,7 @@ Estudante de Engenharia de Software e desenvolvedor em formação.
 
 Atualmente, estou focado em desenvolvimento web, aprimorando minhas habilidades por meio de projetos práticos e estudos contínuos.
 
-Meu portfólio: https://nikao19.github.io/n-portfolio/
+## Meu portfólio: https://nikao19.github.io/n-portfolio/
 
 ## Tecnologias
 
