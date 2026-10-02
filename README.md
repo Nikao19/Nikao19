@@ -18,7 +18,7 @@ Atualmente, estou focado em desenvolvimento web, aprimorando minhas habilidades 
 
 - Desenvolvimento Web
 - Desenvolvimento de software
-- Linguagem C
+- Java
 
 ## Contato
 
