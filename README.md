@@ -25,10 +25,6 @@
 * Desenvolvimento de Software
 * Lógica de Programação
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikao19\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
-
 ## Contato
 
 <a href="https://www.instagram.com/nicolasale_silva/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="mailto:nicolasalesilva1911@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/nicolasalexandresilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
