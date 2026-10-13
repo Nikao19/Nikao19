@@ -1,9 +1,6 @@
 # Olá, eu sou o Nicolas Alexandre!
 
-👨‍💻 Estudante de Engenharia de Software e desenvolvedor em formação.
-🎓 Aprimorando meus conhecimentos em desenvolvimento de software.
-📚 Estudando Java e aprofundando meus conhecimentos em programação.
-🌱 Sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
+Estudante de Engenharia de Software e desenvolvedor em formação, aprimorando meus conhecimentos em desenvolvimento de software. Atualmente, estou estudando Java e aprofundando meus conhecimentos em programação, sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
 
 ## Meu Portfólio
 
