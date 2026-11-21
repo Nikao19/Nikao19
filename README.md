@@ -4,7 +4,7 @@ Estudante de Engenharia de Software e desenvolvedor em formação, aprimorando m
 
 ## Meu Portfólio
 
-🔗 [Acesse meu portfólio](https://nikao19.github.io/n-portfolio/)
+🔗 [Acesse meu portfólio](https://nikao19.github.io/na-portfolio/)
 
 ## Tech Stack
 
